@@ -230,9 +230,6 @@ class EdgeShrinkAIModel(context: Context) {
 ```bash
 # Install dependencies
 pip install torch torchvision transformers peft
-
-# Verify model loading
-python scripts/validate_counting.py
 ```
 
 ### 2. Run Demo Applications
